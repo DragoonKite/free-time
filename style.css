@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+}
+
+h2{
+    color: darkgray;
+}
+
+h3{
+    color: dimgrey;
+}
+
+ol{
+    width: fit-content;
+    height: fit-content;
+    border-radius: 25px;
+    background-color: lavender;
+    float: left;
+    margin: 0 1.5%;
+    width: 45%;
+}
+
+ul{
+    background-color: lightblue;
+    float: left;
+    margin: 0 1.5%;
+    width: 45%;
+}
+
+li{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color: rgb(44, 70, 17);
+}
+
+p{
+    text-align: right;
+}
